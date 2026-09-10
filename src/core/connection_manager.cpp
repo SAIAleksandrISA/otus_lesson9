@@ -1,4 +1,4 @@
-#include "core/ñonnection_manager.h"
+#include "ñonnection_manager.h"
 #include "consoleoutputhandler.h"
 #include "fileoutputhandler.h"
 #include <iostream>
