@@ -8,8 +8,6 @@ set(CMAKE_CXX_EXTENSIONS OFF)
 add_library(async_lib SHARED
     async.cpp
     async.h
-    session_manager.cpp
-    session_manager.h
 )
 
 target_include_directories(async_lib PUBLIC 

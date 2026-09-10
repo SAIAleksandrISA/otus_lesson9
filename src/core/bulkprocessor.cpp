@@ -1,5 +1,6 @@
 #include "bulkprocessor.h"
 #include <sstream>
+#include <memory>
 
 namespace bulk
 {
