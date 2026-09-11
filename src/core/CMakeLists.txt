@@ -13,7 +13,7 @@ add_library(bulk_core STATIC
     consoleoutputhandler.cpp
     fileoutputhandler.h
     fileoutputhandler.cpp
-	сonnection_manager.h
+	connection_manager.h
     connection_manager.cpp
 	session_manager.h
     session_manager.cpp

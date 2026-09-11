@@ -1,5 +1,5 @@
 #include "consoleoutputhandler.h"
-#include <core/ñonnection_manager.h>
+#include <connection_manager.h>
 #include "fileoutputhandler.h"
 #include <iostream>
 

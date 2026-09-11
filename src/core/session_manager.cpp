@@ -1,5 +1,5 @@
+#include "connection_manager.h"
 #include "session_manager.h"
-#include "core/ñonnection_manager.h"
 #include "bulkprocessor.h"
 #include "threading/thread_manager.h"
 
